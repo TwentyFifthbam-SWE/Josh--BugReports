@@ -17,7 +17,7 @@ Expected behavior
 All images in the gallery section should load properly and be displayed without any issues.
 
 Screenshots
-[Attach screenshots illustrating the missing images or broken image icons in the gallery section, if possible.]
+N/A
 
 Desktop
 
